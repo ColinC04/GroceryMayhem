@@ -10,7 +10,7 @@ A game created as the Culminating Assignment of the ICS3U course. The game is a 
 pip install Pygame
 ```
 
-- Python
+- Python 3.x
 
 ## Built With
 
